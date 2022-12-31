@@ -2,7 +2,7 @@
 
 [![PHP Version Require](http://poser.pugx.org/lesstif/jira-cloud-restapi/require/php)](https://packagist.org/packages/lesstif/jira-cloud-restapi)
 
-This is a fork of lesstif/php-JiraCloud-RESTAPI (https://github.com/lesstif/php-jira-rest-client)  adapted to require monolog ^2.0 so it can be used with Laravel 9.
+This is a fork of [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-jira-rest-client)  adapted to require monolog ^2.0 so it can be used with Laravel 9.
 
 # Cloud only
 If you want to interact with Jira On-premise(Server or Data Center) instead of Cloud, [use this repository](https://github.com/lesstif/php-jira-rest-client).
